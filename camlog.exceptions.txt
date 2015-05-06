@@ -1,0 +1,3 @@
+02/13/15 11:42:58	ECLFUNQA	MTV-LD1473	huy.quan	"C:\Program Files (x86)\CAM\eclipse\eConnect.exe" 	Database	Cursor not connecting
+02/13/15 11:44:26	ECLFUNQA	MTV-LD1473	huy.quan	"C:\Program Files (x86)\CAM\eclipse\eConnect.exe" 	Database	Cursor not connecting
+02/13/15 11:44:54	ECLFUNQA	MTV-LD1473	huy.quan	"C:\Program Files (x86)\CAM\eclipse\eConnect.exe" 	Database	Cursor not connecting

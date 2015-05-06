@@ -1,0 +1,2556 @@
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
+Log File created.
+Getting registry from HKEY_CURRENT_USER, SOFTWARE\CAM\Eclipse
+Getting registry from HKEY_USERS, .Default\SOFTWARE\CAM\Eclipse 
+Unable to get registry ... disabling trace
